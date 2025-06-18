@@ -95,13 +95,13 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_FYdiskl5EfCeecKIrD1HKg" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_FYdisUl5EfCeecKIrD1HKg" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_sotbikvVEfCk__kmjNTT0A">
-            <targetForm xmi:type="expression:Expression" xmi:id="_sotbi0vVEfCk__kmjNTT0A" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_GKpH8Ex2EfCk__kmjNTT0A" name="newForm2" content="76a50062-b8ab-4169-9741-20cd7d3bb9d0" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_sotbiUvVEfCk__kmjNTT0A">
             <inputs xmi:type="process:ContractInput" xmi:id="_tYFC8EvVEfCk__kmjNTT0A" name="servicio">
               <mapping xmi:type="process:ContractInputMapping" xmi:id="_tYFC8UvVEfCk__kmjNTT0A"/>
             </inputs>
-            <inputs xmi:type="process:ContractInput" xmi:id="_NG9PgEvWEfCk__kmjNTT0A" name="input2" type="DECIMAL">
+            <inputs xmi:type="process:ContractInput" xmi:id="_NG9PgEvWEfCk__kmjNTT0A" name="monto" type="DECIMAL">
               <mapping xmi:type="process:ContractInputMapping" xmi:id="_NG9PgUvWEfCk__kmjNTT0A"/>
             </inputs>
           </contract>
@@ -117,7 +117,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_ql0np0ltEfCeecKIrD1HKg" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_ql0npkltEfCeecKIrD1HKg" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_I5KZakvWEfCk__kmjNTT0A">
-            <targetForm xmi:type="expression:Expression" xmi:id="_I5KZa0vWEfCk__kmjNTT0A" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_J9SvoEx1EfCk__kmjNTT0A" name="newForm1" content="824ec8eb-5570-400c-a70f-4eb0cf25532b" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_I5KZaUvWEfCk__kmjNTT0A">
             <inputs xmi:type="process:ContractInput" xmi:id="_bixY0EvWEfCk__kmjNTT0A" name="fechaInicio" type="DATE">
@@ -139,13 +139,13 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_FtZ39kl5EfCeecKIrD1HKg" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_FtZ39Ul5EfCeecKIrD1HKg" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_LJO-mkvWEfCk__kmjNTT0A">
-            <targetForm xmi:type="expression:Expression" xmi:id="_LJO-m0vWEfCk__kmjNTT0A" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_LMhtcEx2EfCk__kmjNTT0A" name="newForm3" content="868a03d1-54c4-40c7-b8fe-7c458d3074c4" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_LJO-mUvWEfCk__kmjNTT0A">
             <inputs xmi:type="process:ContractInput" xmi:id="_TAQlMEvWEfCk__kmjNTT0A" name="cuentaDestino">
               <mapping xmi:type="process:ContractInputMapping" xmi:id="_TAQlMUvWEfCk__kmjNTT0A"/>
             </inputs>
-            <inputs xmi:type="process:ContractInput" xmi:id="_TIWxQEvWEfCk__kmjNTT0A" name="input2" type="DECIMAL">
+            <inputs xmi:type="process:ContractInput" xmi:id="_TIWxQEvWEfCk__kmjNTT0A" name="monto" type="DECIMAL">
               <mapping xmi:type="process:ContractInputMapping" xmi:id="_TIWxQUvWEfCk__kmjNTT0A"/>
             </inputs>
             <inputs xmi:type="process:ContractInput" xmi:id="_VYoKwEvWEfCk__kmjNTT0A" name="descripcion">
