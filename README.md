@@ -34,6 +34,6 @@ Definición breve: Plataforma Tesora gestiona emisión de facturas, envío a cli
 
 Definición breve: Automatización de ETL, dashboards y reportes financieros/KPIs usando Oracle BI y BigQuery.
 
-6. ⛔ Prevención de Fraudes y Gestión de Riesgos
+6. Prevención de Fraudes y Gestión de Riesgos
 
 Definición breve: Análisis en tiempo real de transacciones con motores antifraude y decisión manual por analista en casos sospechosos.
